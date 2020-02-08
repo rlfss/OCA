@@ -27,3 +27,8 @@
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
 	branch = 12.0
+
+[submodule "OCA/connector-telephony"]
+	path = OCA/connector-telephony
+	url = git@github.com:OCA/connector-telephony.git
+	branch = 12.0

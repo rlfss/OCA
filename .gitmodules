@@ -132,3 +132,8 @@
 	path = OCA/server-brand
 	url = git@github.com:OCA/server-brand.git
 	branch = 12.0
+
+[submodule "OCA/server-backend"]
+	path = OCA/server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 12.0

@@ -47,3 +47,8 @@
 	path = OCA/l10n-netherlands
 	url = git@github.com:OCA/l10n-netherlands.git
 	branch = 12.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0

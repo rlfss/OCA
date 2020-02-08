@@ -72,3 +72,8 @@
 	path = OCA/project-reporting
 	url = git@github.com:OCA/project-reporting.git
 	branch = 12.0
+
+[submodule "OCA/l10n-romania"]
+	path = OCA/l10n-romania
+	url = git@github.com:OCA/l10n-romania.git
+	branch = 12.0

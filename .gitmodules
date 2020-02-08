@@ -62,3 +62,8 @@
 	path = OCA/l10n-usa
 	url = git@github.com:OCA/l10n-usa.git
 	branch = 12.0
+
+[submodule "OCA/management-system"]
+	path = OCA/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 12.0

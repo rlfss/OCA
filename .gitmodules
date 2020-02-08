@@ -32,3 +32,8 @@
 	path = OCA/connector-telephony
 	url = git@github.com:OCA/connector-telephony.git
 	branch = 12.0
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 12.0

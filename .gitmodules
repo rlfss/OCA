@@ -1,0 +1,4 @@
+[submodule "OCA/hr"]
+	path = OCA/hr
+	url = git@github.com:OCA/hr.git
+	branch = 12.0

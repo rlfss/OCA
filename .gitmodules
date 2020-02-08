@@ -77,3 +77,8 @@
 	path = OCA/l10n-romania
 	url = git@github.com:OCA/l10n-romania.git
 	branch = 12.0
+
+[submodule "OCA/geospatial"]
+	path = OCA/geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 12.0

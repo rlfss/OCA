@@ -87,3 +87,8 @@
 	path = OCA/knowledge
 	url = git@github.com:OCA/knowledge.git
 	branch = 11.0
+
+[submodule "OCA/search-engine"]
+	path = OCA/search-engine
+	url = git@github.com:OCA/search-engine.git
+	branch = 12.0

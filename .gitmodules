@@ -12,3 +12,8 @@
 	path = OCA/account-financial-tools
 	url = git@github.com:OCA/account-financial-tools.git
 	branch = 12.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0

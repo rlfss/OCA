@@ -42,3 +42,8 @@
 	path = OCA/currency
 	url = git@github.com:OCA/currency.git
 	branch = 12.0
+
+[submodule "OCA/l10n-netherlands"]
+	path = OCA/l10n-netherlands
+	url = git@github.com:OCA/l10n-netherlands.git
+	branch = 12.0

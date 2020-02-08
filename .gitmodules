@@ -137,3 +137,8 @@
 	path = OCA/server-backend
 	url = git@github.com:OCA/server-backend.git
 	branch = 12.0
+
+[submodule "rlfss/royal2020"]
+	path = rlfss/royal2020
+	url = git@github.com:rlfss/royal2020.git
+	branch = Master3

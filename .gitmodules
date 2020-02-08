@@ -102,3 +102,8 @@
 	path = OCA/sale-reporting
 	url = git@github.com:OCA/sale-reporting.git
 	branch = 12.0
+
+[submodule "OCA/stock-logistics-transport"]
+	path = OCA/stock-logistics-transport
+	url = git@github.com:OCA/stock-logistics-transport.git
+	branch = 12.0

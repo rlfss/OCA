@@ -1,0 +1,8 @@
+account-analytic
+account-invoice-reporting
+contract
+geospatial
+hr
+partner-contact
+stock-logistics-warehouse
+web

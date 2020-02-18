@@ -1,0 +1,8 @@
+# auth_totp
+pyotp
+# auth_signup_verify_email
+email_validator
+# auth_u2f
+python-u2flib-server
+# password_security
+zxcvbn

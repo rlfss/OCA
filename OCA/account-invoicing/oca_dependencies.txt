@@ -1,0 +1,5 @@
+partner-contact
+product-attribute
+purchase-workflow
+queue
+brand

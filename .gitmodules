@@ -2,34 +2,6 @@
 	path = OCA/hr
 	url = https://github.com/OCA/hr.git
 	branch = 12.0
-[submodule "Muk/muk_web"]
-	path = Muk/muk_web
-	url = https://github.com/muk-it/muk_web.git
-	branch = 12.0
-[submodule "Muk/muk_quality"]
-	path = Muk/muk_quality
-	url = https://github.com/muk-it/muk_quality.git
-	branch = 12.0
-[submodule "Muk/muk_website"]
-	path = Muk/muk_website
-	url = https://github.com/muk-it/muk_website.git
-	branch = 12.0
-[submodule "Muk/muk_base"]
-	path = Muk/muk_base
-	url = https://github.com/muk-it/muk_base.git
-	branch = 12.0
-[submodule "Muk/muk_misc"]
-	path = Muk/muk_misc
-	url = https://github.com/muk-it/muk_misc.git
-	branch = 12.0
-[submodule "Muk/muk_dms"]
-	path = Muk/muk_dms
-	url = https://github.com/muk-it/muk_dms.git
-	branch = 12.0
-[submodule "Muk/muk_bundles"]
-	path = Muk/muk_bundles
-	url = https://github.com/muk-it/muk_bundles.git
-	branch = 12.0
 [submodule "OCA/maintenance"]
 	path = OCA/maintenance
 	url = https://github.com/OCA/maintenance.git

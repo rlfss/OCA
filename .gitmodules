@@ -1,0 +1,144 @@
+[submodule "OCA/hr"]
+	path = OCA/hr
+	url = git@github.com:OCA/hr.git
+	branch = 12.0
+
+[submodule "OCA/account-closing"]
+	path = OCA/account-closing
+	url = git@github.com:OCA/account-closing.git
+	branch = 12.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 12.0
+
+[submodule "OCA/account-invoicing"]
+	path = OCA/account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 12.0
+
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = git@github.com:OCA/bank-payment.git
+	branch = 12.0
+
+[submodule "OCA/brand"]
+	path = OCA/brand
+	url = git@github.com:OCA/brand.git
+	branch = 12.0
+
+[submodule "OCA/connector-telephony"]
+	path = OCA/connector-telephony
+	url = git@github.com:OCA/connector-telephony.git
+	branch = 12.0
+
+[submodule "OCA/credit-control"]
+	path = OCA/credit-control
+	url = git@github.com:OCA/credit-control.git
+	branch = 12.0
+
+[submodule "OCA/currency"]
+	path = OCA/currency
+	url = git@github.com:OCA/currency.git
+	branch = 12.0
+
+[submodule "OCA/l10n-netherlands"]
+	path = OCA/l10n-netherlands
+	url = git@github.com:OCA/l10n-netherlands.git
+	branch = 12.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 12.0
+
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 12.0
+
+[submodule "OCA/l10n-usa"]
+	path = OCA/l10n-usa
+	url = git@github.com:OCA/l10n-usa.git
+	branch = 12.0
+
+[submodule "OCA/management-system"]
+	path = OCA/management-system
+	url = git@github.com:OCA/management-system.git
+	branch = 12.0
+
+[submodule "OCA/project-reporting"]
+	path = OCA/project-reporting
+	url = git@github.com:OCA/project-reporting.git
+	branch = 12.0
+
+[submodule "OCA/l10n-romania"]
+	path = OCA/l10n-romania
+	url = git@github.com:OCA/l10n-romania.git
+	branch = 12.0
+
+[submodule "OCA/geospatial"]
+	path = OCA/geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 12.0
+
+[submodule "OCA/knowledge"]
+	path = OCA/knowledge
+	url = git@github.com:OCA/knowledge.git
+	branch = 11.0
+
+[submodule "OCA/search-engine"]
+	path = OCA/search-engine
+	url = git@github.com:OCA/search-engine.git
+	branch = 12.0
+
+[submodule "OCA/field-service"]
+	path = OCA/field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 12.0
+
+[submodule "OCA/sale-reporting"]
+	path = OCA/sale-reporting
+	url = git@github.com:OCA/sale-reporting.git
+	branch = 12.0
+
+[submodule "OCA/stock-logistics-transport"]
+	path = OCA/stock-logistics-transport
+	url = git@github.com:OCA/stock-logistics-transport.git
+	branch = 12.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
+
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 12.0
+
+[submodule "OCA/website-cms"]
+	path = OCA/website-cms
+	url = git@github.com:OCA/website-cms.git
+	branch = 12.0
+
+[submodule "OCA/stock-logistics-reporting"]
+	path = OCA/stock-logistics-reporting
+	url = git@github.com:OCA/stock-logistics-reporting.git
+	branch = 12.0
+
+[submodule "OCA/server-brand"]
+	path = OCA/server-brand
+	url = git@github.com:OCA/server-brand.git
+	branch = 12.0
+
+[submodule "OCA/server-backend"]
+	path = OCA/server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 12.0
+
+[submodule "rlfss/royal2020"]
+	path = rlfss/royal2020
+	url = git@github.com:rlfss/royal2020.git
+	branch = Master3

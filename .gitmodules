@@ -2,6 +2,34 @@
 	path = OCA/hr
 	url = https://github.com/OCA/hr.git
 	branch = 12.0
+[submodule "Muk/muk_web"]
+	path = Muk/muk_web
+	url = https://github.com/muk-it/muk_web.git
+	branch = 12.0
+[submodule "Muk/muk_quality"]
+	path = Muk/muk_quality
+	url = https://github.com/muk-it/muk_quality.git
+	branch = 12.0
+[submodule "Muk/muk_website"]
+	path = Muk/muk_website
+	url = https://github.com/muk-it/muk_website.git
+	branch = 12.0
+[submodule "Muk/muk_base"]
+	path = Muk/muk_base
+	url = https://github.com/muk-it/muk_base.git
+	branch = 12.0
+[submodule "Muk/muk_misc"]
+	path = Muk/muk_misc
+	url = https://github.com/muk-it/muk_misc.git
+	branch = 12.0
+[submodule "Muk/muk_dms"]
+	path = Muk/muk_dms
+	url = https://github.com/muk-it/muk_dms.git
+	branch = 12.0
+[submodule "Muk/muk_bundles"]
+	path = Muk/muk_bundles
+	url = https://github.com/muk-it/muk_bundles.git
+	branch = 12.0
 [submodule "OCA/maintenance"]
 	path = OCA/maintenance
 	url = https://github.com/OCA/maintenance.git
@@ -184,27 +212,27 @@
 	branch = 12.0
 [submodule "OCA/geospatial"]
 	path = OCA/geospatial
-	url = C:/Program Files/Git/geospatial
+	url =  https://github.com/OCA/geospatial
 	branch = 12.0
 [submodule "OCA/pos"]
 	path = OCA/pos
-	url = C:/Program Files/Git/pos
+	url =  https://github.com/OCA/pos
 	branch = 12.0
 [submodule "OCA/product-variant"]
 	path = OCA/product-variant
-	url = C:/Program Files/Git/product-variant
+	url =  https://github.com/OCA/product-variant
 	branch = 12.0
 [submodule "OCA/report-print-send"]
 	path = OCA/report-print-send
-	url = C:/Program Files/Git/report-print-send
+	url =  https://github.com/OCA/report-print-send
 	branch = 12.0
 [submodule "OCA/helpdesk"]
 	path = OCA/helpdesk
-	url = C:/Program Files/Git/helpdesk
+	url =  https://github.com/OCA/helpdesk
 	branch = 12.0
 [submodule "OCA/intrastat-extrastat"]
 	path = OCA/intrastat-extrastat
-	url = C:/Program Files/Git/intrastat-extrastat
+	url =  https://github.com/OCA/intrastat-extrastat
 	branch = 12.0
 [submodule "OCA/event"]
 	path = OCA/event
@@ -212,139 +240,139 @@
 	branch = 12.0
 [submodule "OCA/l10n-thailand"]
 	path = OCA/l10n-thailand
-	url = C:/Program Files/Git/l10n-thailand
+	url =  https://github.com/OCA/l10n-thailand
 	branch = 12.0
 [submodule "OCA/management-system"]
 	path = OCA/management-system
-	url = C:/Program Files/Git/management-system
+	url =  https://github.com/OCA/management-system
 	branch = 12.0
 [submodule "OCA/bank-statement-import"]
 	path = OCA/bank-statement-import
-	url = C:/Program Files/Git/bank-statement-import
+	url =  https://github.com/OCA/bank-statement-import
 	branch = 12.0
 [submodule "OCA/account-closing"]
 	path = OCA/account-closing
-	url = C:/Program Files/Git/account-closing
+	url =  https://github.com/OCA/account-closing
 	branch = 12.0
 [submodule "OCA/server-tools"]
 	path = OCA/server-tools
-	url = C:/Program Files/Git/server-tools
+	url =  https://github.com/OCA/server-tools
 	branch = 12.0
 [submodule "OCA/website"]
 	path = OCA/website
-	url = C:/Program Files/Git/website
+	url =  https://github.com/OCA/website
 	branch = 12.0
 [submodule "OCA/l10n-finland"]
 	path = OCA/l10n-finland
-	url = C:/Program Files/Git/l10n-finland
+	url =  https://github.com/OCA/l10n-finland
 	branch = 12.0
 [submodule "OCA/multi-company"]
 	path = OCA/multi-company
-	url = C:/Program Files/Git/multi-company
+	url =  https://github.com/OCA/multi-company
 	branch = 12.0
 [submodule "OCA/account-fiscal-rule"]
 	path = OCA/account-fiscal-rule
-	url = C:/Program Files/Git/account-fiscal-rule
+	url =  https://github.com/OCA/account-fiscal-rule
 	branch = 12.0
 [submodule "OCA/bank-payment"]
 	path = OCA/bank-payment
-	url = C:/Program Files/Git/bank-payment
+	url =  https://github.com/OCA/bank-payment
 	branch = 12.0
 [submodule "OCA/l10n-mexico"]
 	path = OCA/l10n-mexico
-	url = C:/Program Files/Git/l10n-mexico
+	url =  https://github.com/OCA/l10n-mexico
 	branch = 12.0
 [submodule "OCA/l10n-portugal"]
 	path = OCA/l10n-portugal
-	url = C:/Program Files/Git/l10n-portugal
+	url =  https://github.com/OCA/l10n-portugal
 	branch = 12.0
 [submodule "OCA/queue"]
 	path = OCA/queue
-	url = C:/Program Files/Git/queue
+	url =  https://github.com/OCA/queue
 	branch = 12.0
 [submodule "OCA/interface-github"]
 	path = OCA/interface-github
-	url = C:/Program Files/Git/interface-github
+	url =  https://github.com/OCA/interface-github
 	branch = 12.0
 [submodule "OCA/website-cms"]
 	path = OCA/website-cms
-	url = C:/Program Files/Git/website-cms
+	url =  https://github.com/OCA/website-cms
 	branch = 12.0
 [submodule "OCA/project-reporting"]
 	path = OCA/project-reporting
-	url = C:/Program Files/Git/project-reporting
+	url =  https://github.com/OCA/project-reporting
 	branch = 12.0
 [submodule "OCA/connector"]
 	path = OCA/connector
-	url = C:/Program Files/Git/connector
+	url =  https://github.com/OCA/connector
 	branch = 12.0
 [submodule "OCA/vertical-isp"]
 	path = OCA/vertical-isp
-	url = C:/Program Files/Git/vertical-isp
+	url =  https://github.com/OCA/vertical-isp
 	branch = 12.0
 [submodule "OCA/vertical-hotel"]
 	path = OCA/vertical-hotel
-	url = C:/Program Files/Git/vertical-hotel
+	url =  https://github.com/OCA/vertical-hotel
 	branch = 12.0
 [submodule "OCA/vertical-association"]
 	path = OCA/vertical-association
-	url = C:/Program Files/Git/vertical-association
+	url =  https://github.com/OCA/vertical-association
 	branch = 12.0
 [submodule "OCA/survey"]
 	path = OCA/survey
-	url = C:/Program Files/Git/survey
+	url =  https://github.com/OCA/survey
 	branch = 12.0
 [submodule "OCA/stock-logistics-transport"]
 	path = OCA/stock-logistics-transport
-	url = C:/Program Files/Git/stock-logistics-transport
+	url =  https://github.com/OCA/stock-logistics-transport
 	branch = 12.0
 [submodule "OCA/server-brand"]
 	path = OCA/server-brand
-	url = C:/Program Files/Git/server-brand
+	url =  https://github.com/OCA/server-brand
 	branch = 12.0
 [submodule "OCA/purchase-reporting"]
 	path = OCA/purchase-reporting
-	url = C:/Program Files/Git/purchase-reporting
+	url =  https://github.com/OCA/purchase-reporting
 	branch = 12.0
 [submodule "OCA/product-pack"]
 	path = OCA/product-pack
-	url = C:/Program Files/Git/product-pack
+	url =  https://github.com/OCA/product-pack
 	branch = 12.0
 [submodule "OCA/manufacture-reporting"]
 	path = OCA/manufacture-reporting
-	url = C:/Program Files/Git/manufacture-reporting
+	url =  https://github.com/OCA/manufacture-reporting
 	branch = 12.0
 [submodule "OCA/margin-analysis"]
 	path = OCA/margin-analysis
-	url = C:/Program Files/Git/margin-analysis
+	url =  https://github.com/OCA/margin-analysis
 	branch = 12.0
 [submodule "OCA/l10n-usa"]
 	path = OCA/l10n-usa
-	url = C:/Program Files/Git/l10n-usa
+	url =  https://github.com/OCA/l10n-usa
 	branch = 12.0
 [submodule "OCA/l10n-germany"]
 	path = OCA/l10n-germany
-	url = C:/Program Files/Git/l10n-germany
+	url =  https://github.com/OCA/l10n-germany
 	branch = 12.0
 [submodule "OCA/data-protection"]
 	path = OCA/data-protection
-	url = C:/Program Files/Git/data-protection
+	url =  https://github.com/OCA/data-protection
 	branch = 12.0
 [submodule "OCA/connector-telephony"]
 	path = OCA/connector-telephony
-	url = C:/Program Files/Git/connector-telephony
+	url =  https://github.com/OCA/connector-telephony
 	branch = 12.0
 [submodule "OCA/business-requirement"]
 	path = OCA/business-requirement
-	url = C:/Program Files/Git/business-requirement
+	url =  https://github.com/OCA/business-requirement
 	branch = 12.0
 [submodule "OCA/apps-store"]
 	path = OCA/apps-store
-	url = C:/Program Files/Git/apps-store
+	url =  https://github.com/OCA/apps-store
 	branch = 12.0
 [submodule "OCA/account-consolidation"]
 	path = OCA/account-consolidation
-	url = C:/Program Files/Git/account-consolidation
+	url =  https://github.com/OCA/account-consolidation
 	branch = 12.0
 [submodule "OCA/account-budgeting"]
 	path = OCA/account-budgeting
@@ -352,11 +380,11 @@
 	branch = 12.0
 [submodule "OCA/oca-custom"]
 	path = OCA/oca-custom
-	url = C:/Program Files/Git/oca-custom
+	url =  https://github.com/OCA/oca-custom
 	branch = 12.0
 [submodule "OCA/Account-closing"]
 	path = OCA/Account-closing
-	url = C:/Program Files/Git/Account-closing
+	url =  https://github.com/OCA/Account-closing
 	branch = 12.0
 [submodule "OCA/e-commerce"]
 	path = OCA/e-commerce
@@ -364,25 +392,17 @@
 	branch = 12.0
 [submodule "OCA/hr-attendance"]
 	path = OCA/hr-attendance
-	url = C:/Program Files/Git/hr-attendance
+	url =  https://github.com/OCA/hr-attendance
 	branch = 12.0
 [submodule "OCA/hr-holidays"]
 	path = OCA/hr-holidays
-	url = C:/Program Files/Git/hr-holidays
+	url =  https://github.com/OCA/hr-holidays
 	branch = 12.0
 [submodule "OCA/l10n-italy"]
 	path = OCA/l10n-italy
-	url = C:/Program Files/Git/l10n-italy
+	url =  https://github.com/OCA/l10n-italy
 	branch = 12.0
 [submodule "e-commerce"]
 	path = e-commerce
 	url = https://github.com/OCA/e-commerce
 	branch = 12.0
-[submodule "hr-attendance"]
-	path = hr-attendance
-	url = https://github.com/OCA/hr-attendance
-	branch = 13.0
-[submodule "hr-holidays"]
-	path = hr-holidays
-	url = https://github.com/OCA/hr-holidays
-	branch = 13.0

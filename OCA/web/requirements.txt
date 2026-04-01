@@ -1,4 +1,4 @@
 # web_widget_bokeh_chart
-bokeh==1.1.0
+bokeh==3.8.2
 # web_widget_plotly_chart
 plotly==4.1.0
